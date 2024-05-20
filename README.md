@@ -23,9 +23,7 @@ I am a computer systems engineer, I develop web and mobile applications using PH
 </p>
 
 ### 🌎 &nbsp;&nbsp;You find me:
-- Writing on <a href="https://alexcamachogz.substack.com/">Substack</a>.
-- Talking and sharing on <a href="https://twitter.com/alexcamachogz">X before Twitter</a>.
-- Experimenting with CSS on <a href="https://codepen.io/alexcamachogz">Codepen</a>.
-- On <a href="https://www.linkedin.com/in/alexcamachogz/">Linkedin</a>.
+- Talking and sharing on <a href="https://x.com/ErikaGarci20982">Twitter</a>.
+- On <a href="https://www.linkedin.com/in/erikaggarcia/">Linkedin</a>.
 
 
