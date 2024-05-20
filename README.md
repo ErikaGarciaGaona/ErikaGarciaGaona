@@ -1,3 +1,4 @@
+# Hi, I'm Erika 👩‍💻🖐
 ![Demo](/imagen/portada.png)
 
 I am a computer systems engineer, I develop web and mobile applications using PHP, JavaScript, HTML & CSS, Python, C#, Arduino, Firebase, MySQL, SQL Server. I also have experience in the agile Scrum methodology.
