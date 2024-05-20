@@ -22,7 +22,7 @@ I am a computer systems engineer, I develop web and mobile applications using PH
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode">&nbsp;&nbsp;  
 </p>
 
-### 🌎 &nbsp;&nbsp;You find me:
+### 📱👾 &nbsp;&nbsp;You find me:
 - Talking and sharing on <a href="https://x.com/ErikaGarci20982">Twitter</a>.
 - On <a href="https://www.linkedin.com/in/erikaggarcia/">Linkedin</a>.
 
